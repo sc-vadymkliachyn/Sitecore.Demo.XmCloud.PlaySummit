@@ -1,0 +1,16 @@
+{
+    "$schema": "../.sitecore/schemas/ModuleFile.schema.json",
+    "namespace": "LW-IntegrationTests-ContentsResolvers",
+    "references": [ "HeadlessSxaWebsite-Content" ],
+    "items": {
+        "includes": [
+            {
+                "name": "lw-integration-tests-contents-resolvers",
+                "path": "/sitecore/system/Modules/Layout Service/Rendering Contents Resolvers/LW-IntegrationTests Rendering Contents Resolvers",
+                "scope": "ItemAndDescendants",
+                "allowedPushOperations": "CreateUpdateAndDelete",
+                "rules": []
+            }
+        ]
+    }
+}
