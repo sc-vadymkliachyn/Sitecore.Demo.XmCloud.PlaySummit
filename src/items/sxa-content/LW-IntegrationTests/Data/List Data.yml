@@ -1,0 +1,34 @@
+﻿---
+ID: "cb5ecb51-1581-41c0-9cc5-6d6263a5d79a"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "afdd8001-2161-482c-9888-5142f4db1e18"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/List Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "130a9e95-a09d-4a04-97b5-5be13cdd7c28"
+      Hint: multilist
+      Value: "{0829CCCF-0EFA-43EA-BC61-127B83C3EAD0}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T093059Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "93df35c5-6bbe-4e78-9352-71bb612afaf7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T093318Z

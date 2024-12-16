@@ -1,0 +1,86 @@
+﻿---
+ID: "d09c92e5-daad-4de0-8036-c2110c8f50bd"
+Parent: "b113ef8c-7bbf-42c0-8e89-c905cadc9d8e"
+Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/edgegql/5-components-page"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{CD869335-94F2-4F2B-865A-7B05B3CECDE6}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5EC6FC80-1CCE-4DA4-9618-24E9E764B01B}"
+              p:before="*"
+              s:ds="{F10EBBDA-2453-40CA-B0DF-AFBD5315960C}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{88CF9BF4-8597-4BBB-BA28-CB248D16334D}"
+              p:after="r[@uid='{5EC6FC80-1CCE-4DA4-9618-24E9E764B01B}']"
+              s:ds="{456BC92A-13D8-4C3F-AC72-149FDDC484B6}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{C31A9480-A364-4ECB-ABCB-47C1FAF9E2C7}"
+              p:after="r[@uid='{88CF9BF4-8597-4BBB-BA28-CB248D16334D}']"
+              s:ds="{3ABA0647-45FF-4937-88DF-B86B27B12A38}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{1794EA1B-D43D-4C04-9DEE-A6F9AF1E94E1}"
+              p:after="r[@uid='{C31A9480-A364-4ECB-ABCB-47C1FAF9E2C7}']"
+              s:ds="{CB5ECB51-1581-41C0-9CC5-6D6263A5D79A}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{B96AFBFC-29E7-48B3-8B57-FAB4CF2E2C49}"
+              p:after="*[1=2]"
+              s:ds="{745D71AC-2A1B-4B9D-BB56-51414A38C596}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: 1 component page
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T131104Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: 1 component page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3d336fe5-c4ed-4e87-90b6-7d02da3e511b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T093805Z

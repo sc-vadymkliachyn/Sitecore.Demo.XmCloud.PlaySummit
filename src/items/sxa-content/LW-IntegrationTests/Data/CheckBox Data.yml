@@ -1,0 +1,34 @@
+﻿---
+ID: "f10ebbda-2453-40ca-b0df-afbd5315960c"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "9b7de92f-7898-4cd2-bb2b-5d1ee5a033ab"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/CheckBox Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T092934Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f1afe018-f0e1-49e4-877e-b36882f879e8"
+    - ID: "9bd729e9-0c58-48d5-86bb-027fbba66ee9"
+      Hint: check
+      Value: 1
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T092940Z

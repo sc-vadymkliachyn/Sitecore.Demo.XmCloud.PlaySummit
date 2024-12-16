@@ -1,0 +1,44 @@
+﻿---
+ID: "6185312c-6d0f-46e8-aa10-8b5dc77529dc"
+Parent: "e17d53d7-8dbc-4941-85c9-53558091d2b5"
+Template: "a77b5dd6-d11c-44b5-992b-ba122756955b"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/xmsgc/Data/sgc-5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "01ce461f-ec88-4c69-bc07-171cc149376e"
+      Hint: description
+      Value: Description for SGC 5
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T151251Z
+    - ID: "5039528d-1112-4600-b15c-7168de05d67b"
+      Hint: img
+      Value: |
+        <image mediaid="{16BD098F-8441-43C9-A08F-3E2251D0F18E}" />
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "59d53399-43be-4baa-81ae-0ddb0bfec2b2"
+    - ID: "9c9554b6-1f12-4fe3-8e3b-d619ef6529e5"
+      Hint: title
+      Value: "SGC-5"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "c097c958-0fe2-4faf-9c19-daedb166bc17"
+      Hint: datetime
+      Value: 20240425T151300Z
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T151521Z

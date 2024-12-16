@@ -1,0 +1,38 @@
+﻿---
+ID: "e8a9a242-7e53-44ca-bab5-df6d610349e7"
+Parent: "7172ac8b-00e2-4ed2-8634-968770c332a1"
+Template: "a77b5dd6-d11c-44b5-992b-ba122756955b"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/xmsgc/With-item-query-page"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{3E2C5A37-63D2-4B51-9895-D58BBEEB86C0}"
+              s:ds="{E17D53D7-8DBC-4941-85C9-53558091D2B5}"
+              s:id="{3695002F-9069-406D-BD92-D4CC4CD56C3B}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T074810Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4e2ee1e1-ebef-490d-b5fb-4bf9e77dcfde"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T074849Z

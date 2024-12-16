@@ -1,0 +1,68 @@
+﻿---
+ID: "5f9f14ad-df79-43e7-8770-aad3832ec490"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "d5f99fae-4c17-4ab2-915e-a4b1c38c2cc9"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/Multi Language GQL Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24ac13e0-6da2-45ab-ab50-d6f06c208b34"
+      Hint: title
+      Value: Multi Language GQL SubTitle EN
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T135858Z
+    - ID: "2b46caba-14da-46a9-9a5e-10e4e08c9537"
+      Hint: subTitle
+      Value: Multi Language GQL SubTitle EN
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f9f262f3-9f8c-4255-90cd-0b3da32151ba"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240422T141954Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24ac13e0-6da2-45ab-ab50-d6f06c208b34"
+      Hint: title
+      Value: Multi Language GQL Data FR
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T141958Z
+    - ID: "2b46caba-14da-46a9-9a5e-10e4e08c9537"
+      Hint: subTitle
+      Value: Multi Language GQL SubTitle FR
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f144201f-e841-411d-8394-47c3b5bf9821"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240422T142012Z

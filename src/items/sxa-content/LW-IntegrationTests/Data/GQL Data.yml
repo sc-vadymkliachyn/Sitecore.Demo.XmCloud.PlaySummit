@@ -1,0 +1,37 @@
+﻿---
+ID: "e724059e-86a2-42c7-9a4e-70eb07f629e0"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "d5f99fae-4c17-4ab2-915e-a4b1c38c2cc9"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/GQL Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24ac13e0-6da2-45ab-ab50-d6f06c208b34"
+      Hint: title
+      Value: GQL Data
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T135858Z
+    - ID: "2b46caba-14da-46a9-9a5e-10e4e08c9537"
+      Hint: subTitle
+      Value: GQL SubTitle
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6ce8f985-a1b3-4f77-93db-ac6c18c3f45b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240422T141923Z

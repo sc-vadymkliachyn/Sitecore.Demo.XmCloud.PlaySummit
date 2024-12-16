@@ -1,0 +1,37 @@
+﻿---
+ID: "0829cccf-0efa-43ea-bc61-127b83c3ead0"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "d5f99fae-4c17-4ab2-915e-a4b1c38c2cc9"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/Simple Title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24ac13e0-6da2-45ab-ab50-d6f06c208b34"
+      Hint: title
+      Value: Simple Title
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T130012Z
+    - ID: "2b46caba-14da-46a9-9a5e-10e4e08c9537"
+      Hint: subTitle
+      Value: Simple Sub Title
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "54014dd5-2964-47fa-81a0-ff96e1f474fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240422T130031Z

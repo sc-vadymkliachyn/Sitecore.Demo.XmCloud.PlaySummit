@@ -1,0 +1,84 @@
+﻿---
+ID: "71327103-b590-45cd-8b98-c62619a2d747"
+Parent: "7172ac8b-00e2-4ed2-8634-968770c332a1"
+Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/xmsgc/Multi-lang-component-page"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{3F020E59-0FE2-4DB2-8529-BCD8A3E9EA36}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{A6B71DBD-FBB4-4AAE-960C-F4C49191BC90}"
+              s:ds="{3F71F5F1-FFF5-493F-8BBF-D0F5E4837D08}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: "Multi-lang-component-page EN"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T183749Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "Multi-lang-component-page"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "691aad22-3432-41e2-94f7-5a03f9da5fdf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T071425Z
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9389938C-C671-4E4E-BFBB-C01943379B5D}"
+              s:ds="{3F71F5F1-FFF5-493F-8BBF-D0F5E4837D08}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: "Multi-lang-component-page FR"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T071412Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "068b3306-1e9f-4068-be66-a11f4e46cb0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T090640Z

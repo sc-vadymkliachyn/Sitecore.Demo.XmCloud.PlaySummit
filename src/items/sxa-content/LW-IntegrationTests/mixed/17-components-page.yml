@@ -1,0 +1,162 @@
+﻿---
+ID: "d2ea2434-2d8f-443d-a41b-08258ee6cece"
+Parent: "a52a4171-1140-4ca3-a299-065d7f1f5a65"
+Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/mixed/17-components-page"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{8EEEAD94-D23C-4EA2-8FA8-D50F499C1CC1}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{FA623D72-8D02-42A5-BA17-1076657356EC}"
+              p:before="*"
+              s:ds="{F10EBBDA-2453-40CA-B0DF-AFBD5315960C}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{EF6871E4-AF6B-4E74-AF84-DD5883B0F32A}"
+              p:after="r[@uid='{FA623D72-8D02-42A5-BA17-1076657356EC}']"
+              s:ds="{456BC92A-13D8-4C3F-AC72-149FDDC484B6}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{6B0D8229-4BFD-4EE6-B2EA-1A3E524DDD89}"
+              p:after="r[@uid='{EF6871E4-AF6B-4E74-AF84-DD5883B0F32A}']"
+              s:ds="{3ABA0647-45FF-4937-88DF-B86B27B12A38}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{B522C804-3587-4048-9C73-06EBB74B3C54}"
+              p:after="r[@uid='{6B0D8229-4BFD-4EE6-B2EA-1A3E524DDD89}']"
+              s:ds="{CB5ECB51-1581-41C0-9CC5-6D6263A5D79A}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{5ED7D0F9-0F49-4B7F-8342-7B0FCCE089E0}"
+              p:after="r[@uid='{B522C804-3587-4048-9C73-06EBB74B3C54}']"
+              s:ds="{745D71AC-2A1B-4B9D-BB56-51414A38C596}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{12E1ADA8-1A55-4282-8F48-1A81266E960F}"
+              p:after="r[@uid='{5ED7D0F9-0F49-4B7F-8342-7B0FCCE089E0}']"
+              s:ds="{49A158E1-6F34-49CA-93F1-182D4A3E77FF}"
+              s:id="{CFB157BF-8331-435D-A61D-FF22660F0D05}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{967B8E41-1EC2-43E6-83C1-AE86C4832C1F}"
+              p:after="r[@uid='{12E1ADA8-1A55-4282-8F48-1A81266E960F}']"
+              s:ds="{F10EBBDA-2453-40CA-B0DF-AFBD5315960C}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{54191129-E2D0-40C4-BA9D-8D40C80B78AC}"
+              p:after="r[@uid='{967B8E41-1EC2-43E6-83C1-AE86C4832C1F}']"
+              s:ds="{456BC92A-13D8-4C3F-AC72-149FDDC484B6}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{DD71C0A8-B890-4B0E-B629-48C8154F4C47}"
+              p:after="r[@uid='{54191129-E2D0-40C4-BA9D-8D40C80B78AC}']"
+              s:ds="{3ABA0647-45FF-4937-88DF-B86B27B12A38}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{6A89651A-81B5-40A0-9DC9-3DB4721A661D}"
+              p:after="r[@uid='{DD71C0A8-B890-4B0E-B629-48C8154F4C47}']"
+              s:ds="{CB5ECB51-1581-41C0-9CC5-6D6263A5D79A}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{D357F763-DB33-40E9-A74B-47776C9DB1C3}"
+              p:after="r[@uid='{6A89651A-81B5-40A0-9DC9-3DB4721A661D}']"
+              s:ds="{745D71AC-2A1B-4B9D-BB56-51414A38C596}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{D865D93C-88AA-49B7-B0C3-E8A2F761947A}"
+              p:after="r[@uid='{D357F763-DB33-40E9-A74B-47776C9DB1C3}']"
+              s:ds="{49A158E1-6F34-49CA-93F1-182D4A3E77FF}"
+              s:id="{197736A4-13DE-4DCD-AB35-4A6F0CD9980A}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{775482CB-25BE-47A1-ABA0-F45C3F2FB43C}"
+              p:after="r[@uid='{D865D93C-88AA-49B7-B0C3-E8A2F761947A}']"
+              s:ds="{EA3B7EA6-D3EA-4232-B6FF-AA5C5B248C43}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{3001A600-9C51-4309-837B-4F26EF87269C}"
+              p:after="r[@uid='{775482CB-25BE-47A1-ABA0-F45C3F2FB43C}']"
+              s:ds="{4269C9B5-49E4-4DFF-B052-D7FDF86A3B82}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{96D5D6A4-D15B-483F-A08C-926BC01096EA}"
+              p:after="r[@uid='{3001A600-9C51-4309-837B-4F26EF87269C}']"
+              s:ds="{925AFDC6-73F2-4EAB-BF7A-A1126464697E}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{EFDF7C38-50DD-4834-99F9-25F6050B1226}"
+              p:after="r[@uid='{96D5D6A4-D15B-483F-A08C-926BC01096EA}']"
+              s:ds="{B048EA70-AB01-466B-8124-C9DAE12B6C61}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+            <r
+              uid="{D943808C-1D28-4580-B106-DBC8E36FC880}"
+              p:after="*[1=2]"
+              s:ds="{6185312C-6D0F-46E8-AA10-8B5DC77529DC}"
+              s:id="{E41407DA-3F0E-436C-8754-8F01518A1DF7}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: "17-different-components-page"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240426T093219Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "3-different-components-page"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "341b3649-2485-4dc2-a28b-ff7721a8cf81"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240426T094307Z

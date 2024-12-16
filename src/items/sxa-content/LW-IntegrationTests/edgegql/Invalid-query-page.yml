@@ -1,0 +1,58 @@
+﻿---
+ID: "c14943a3-670a-402c-a6c2-6e883ae235fb"
+Parent: "b113ef8c-7bbf-42c0-8e89-c905cadc9d8e"
+Template: "456bd9ed-1929-4103-9ba3-54dadb1f5ac5"
+Path: "/sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/edgegql/Invalid-query-page"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{AEF0D227-E30B-4FA6-AD38-0BCE175DFAA2}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+            s:l="{DF37AFB2-44D3-41D5-9080-F63694B1C20A}">
+            <r
+              uid="{C4A1E27E-DF02-4C68-993F-06F1C17AE6EC}"
+              s:ds="{E724059E-86A2-42C7-9A4E-70EB07F629E0}"
+              s:id="{4A3BC76E-4B03-4DF2-BDAB-8CF0351A9D7C}"
+              s:par="CSSStyles"
+              s:ph="devex-main" />
+          </d>
+        </r>
+    - ID: "17707054-bc28-496c-925f-e614ba18f3e0"
+      Hint: Title
+      Value: Invalid query page
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240422T131208Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Invalid query page
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3fd16f0b-915b-4315-81c2-62f850efc9ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240423T065958Z

@@ -1,0 +1,37 @@
+﻿---
+ID: "456bc92a-13d8-4c3f-ac72-149fddc484b6"
+Parent: "abec8008-2a4d-4e1b-80e0-3bfb05ba7ed4"
+Template: "79c392cf-4f76-4824-8157-bb73637523d3"
+Path: /sitecore/content/PLAY/playwebsite/home/LW-IntegrationTests/Data/Datetime Data
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17327189-03c0-4d6b-becd-b818bf2a052a"
+      Hint: date
+      Value: 20240425T000000Z
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240425T092955Z
+    - ID: "446186a1-e5ef-4408-b5b8-e3f48a7d3fc0"
+      Hint: dateTime
+      Value: 20240425T092900Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0d982369-f19c-4dce-bb9a-09aca941358c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\bohdan.dorokhin@sitecore.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240425T093001Z
